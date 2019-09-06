@@ -25,7 +25,7 @@ SECRET_KEY = '_vkva_48!#z@2hhzknr#aepa*1vb3lijzko)=c1fi9-l4+*2*y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['Garvitagrawal35.pythonanywhere.com']
 
 
 # Application definition
